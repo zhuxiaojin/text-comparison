@@ -1,0 +1,17 @@
+{
+    "name": "zhuxiaojin/text-comparison",
+    "description": "文本相识度比较",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "朱晓进",
+            "email": "qhj1989@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Text\\": "src/Text"
+        }
+    }
+}
