@@ -1,8 +1,9 @@
 # text-comparison
 文本相似度比较
-# 
+
+### 使用方法
+
 ```
-//使用方法
 $lcs = new TextComparison();
 $first_word="党政教育的意义是为了让政府更好的服务人民";
 $second_word="为了让政府更好的服务人民";
