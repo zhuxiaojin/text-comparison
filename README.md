@@ -2,8 +2,9 @@
 文本相似度比较
 
 ### 安装
+```
 composer require zhuxiaojin/text-comparison dev-master
-
+```
 ### 使用方法
 
 ```
